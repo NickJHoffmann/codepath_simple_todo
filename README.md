@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The programming itself is not particularly complicated, the video walkthroughs just kind of zoom through without as much explanation as to the reasoning behind everything.
 
 ## License
 
